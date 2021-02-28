@@ -1,0 +1,27 @@
+{
+    "id": "B1C5E102",
+    "path": "~/business/project_stock_analyzer/stock_analyzer.R",
+    "project_path": "stock_analyzer.R",
+    "type": "r_source",
+    "hash": "1313514059",
+    "contents": "",
+    "dirty": false,
+    "created": 1612893025847.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,17",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1614432354,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1614432354207,
+    "read_only": false,
+    "read_only_alternatives": []
+}

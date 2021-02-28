@@ -1,0 +1,13 @@
+name: project_stock_analyzer
+title: project_stock_analyzer
+username:
+account: n-rashid
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3707668
+bundleId: 4278840
+url: https://n-rashid.shinyapps.io/project_stock_analyzer/
+when: 1614432427.6394
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: test.R|test1.R
